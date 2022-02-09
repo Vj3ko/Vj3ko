@@ -6,7 +6,7 @@ Self-taught individual on the road to pursuit greatness! <br>
 
 “With great code comes great responsibility”
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vj3ko)](https://github.com/Vj3ko/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vj3ko)](https://github.com/Vj3ko/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp;
 ![Vj3ko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vj3ko&show_icons=true&theme=radical)
 
 
