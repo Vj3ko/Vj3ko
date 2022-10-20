@@ -1,4 +1,4 @@
-I'm Vjeko, a web development enthusiast. <br>
+I'm Vjekoslav, a web development enthusiast. <br>
 Self-taught individual on the road to pursuit greatness! <br>
 ##
 
