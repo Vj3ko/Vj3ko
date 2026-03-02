@@ -1,5 +1,5 @@
 I'm Vjekoslav, a web development enthusiast. <br>
-Self-taught individual on the road to pursuit greatness! <br>
+Self-taught individual on the road to pursue greatness! <br>
 ##
 
 “With great code comes great responsibility”
