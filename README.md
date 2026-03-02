@@ -8,6 +8,4 @@ Self-taught individual on the road to pursue greatness! <br>
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vj3ko)](https://github.com/Vj3ko/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp;
-
 
